@@ -21,8 +21,8 @@ import HomeHello from '@/views/Home/components/HomeHello.vue';
                 <img src="@/assets/img/github.png" alt="" />
             </div>
             <div class="more">
-                <div class="github">此项目github<a href="https://github.com/9WiSHao/sb6657">源码地址</a>、<a href="https://github.com/AmorDL/fk6657.github.io">部署地址</a></div>
-                <div class="author">网站制作：<a href="https://github.com/AmorDL">AmorDL</a> 、<a href="https://github.com/9WiSHao">9WiSHao</a></div>
+                <div class="github">此项目github<a href="https://github.com/6657MemesHub/fontend">前端源码地址</a>、<a href="https://github.com/6657MemesHub/backend">后端源码地址</a>、<a href="https://github.com/AmorDL/fk6657.github.io">部署地址</a></div>
+                <div class="author">网站制作：<a href="https://github.com/AmorDL">AmorDL</a> 、<a href="https://github.com/9WiSHao">9WiSHao</a> 、<a href="https://github.com/zifeiyu0531">zifeiyu0531</a></div>
             </div>
         </div>
     </div>
